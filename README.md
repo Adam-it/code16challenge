@@ -19,7 +19,9 @@ I added a console app which every couple of minutes presents a random push notif
 ---
 ### 📸 Result
 some notifications that show from time to time
+
 ![](./Images/Notifications.png)
 
 notifications summary
+
 ![](./Images/NotificationSummary.png)
